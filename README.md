@@ -209,7 +209,7 @@ This XBench DeepSearch-2510 task asks for the name of a coauthor of an XBench pa
 
 ## 🤗 Related Dataset
 
-[CoEvoke](https://huggingface.co/datasets/Some-thy/CoEvoke) captures multi-agent collaboration across software engineering, mathematical reasoning, natural-language logical reasoning, and logic-grid puzzles. Each episode records agent messages, tool interactions, and intermediate review decisions, providing trajectory examples for analyzing coordination and training agents to work together.
+**CoEvoke** (https://huggingface.co/datasets/Some-thy/CoEvoke) captures multi-agent collaboration across software engineering, mathematical reasoning, natural-language logical reasoning, and logic-grid puzzles. Each episode records agent messages, tool interactions, and intermediate review decisions, providing trajectory examples for analyzing coordination and training agents to work together.
 
 | Source | Parent trajectories | Canonical tasks | Single-loop | Adjacent double-loop | Total episodes |
 | --- | ---: | ---: | ---: | ---: | ---: |
